@@ -1,0 +1,6 @@
+package test;
+
+interface animal {
+	
+
+}
